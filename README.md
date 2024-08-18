@@ -18,6 +18,6 @@ Utilização do Microsoft Copilot para geração da imagem de capa através da s
 [Apresente os resultados do seu projeto](https://github.com/AlissonBrn/lab-natty-or-not/blob/teste/E-book%20IA%20Generativa.docx)
 
 ## 💭 Reflexão (Opcional)
-A cada dia se torna mas fácil a criação de conteúdo com a utilização de IA e com ele podemos gerar coisas incríveis tornando nossas tarefas muito mais fáceis com uma evolução incrível ao longo do tempo.
-```
+```A cada dia se torna mas fácil a criação de conteúdo com a utilização de IA e com ele podemos gerar coisas incríveis tornando nossas tarefas muito mais fáceis com uma evolução incrível ao longo do tempo.
+
 
